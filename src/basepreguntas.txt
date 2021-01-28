@@ -1,0 +1,431 @@
+1@2@1@"La sintaxis de la sentencia for, consta de..."@"Inicializacion, condicion, incremento y un conjunto de sentencias."@"Inicializacion, y la condicion."@"Inicializacion, condicion y break."@"Ninguna de las anteriores."@1
+2@2@1@"Luego de ejecutar la sentencia x = pow ( 3, 6); en C++ el valor de ""x"" es ..."@479@729@18@216@2
+3@2@2@"Que tipo de estructura es el ""switch""?"@"Condicional"@"Repetitiva"@"Secuencial"@"Comprobadora"@1
+4@2@2@"Para realizar la operacion X+Z en C++ Que libreria se necesita?"@"<iostream>"@"<Math.h>"@"<stdlib.h>"@"Ninguna de las anteriores"@4
+5@2@3@"Que biblioteca es necesaria para especificar precondiciones y postcondiciones?"@"<cassert>"@"<iostream>"@"<math.h>"@"Ninguna de las anteriores"@1
+6@2@3@"Cual de las siguientes es una directiva de preprocesador en C++?"@"#include <iostream>"@"cout << ""Hola"";"@"return 0;"@"int num = 10;"@1
+7@2@4@"De que otra manera son denominadas las estructuras de control de tipo ""repeticion""?"@"Secuencial"@"De composicion alternativa"@"De composicion iterativa"@"De composicion repetitiva"@3
+8@2@4@"De que depende el numero de repeticiones de un ciclo while?"@"No depende de nada en particular"@"Esta establecido de antemano"@"De una condicion booleana (verdadera o falsa)"@"Depende de la flexibilidad de la estrcutura"@3
+9@2@5@"En C++ la funcion de la libreria math.h para calcular la raiz cuadrada de un numero es ..."@"srpt(numero)"@"raiz(numero)"@"strq(numero)"@"sqrt(numero)"@4
+10@2@5@"Cual de los siguientes tipos de datos tiene un tamaño de 4 bytes?"@"bool"@"char"@"short int"@"int"@4
+11@2@6@"En C++ Cuando una variable es global?"@"Cuando es de tipo int"@"Cuando es de tipo bool"@"Cuando esta declarada dentro de la funcion principal main"@"Cuando esta declarada fuera de cualquier funcion"@4
+12@2@6@"Que biblioteca es necesaria para manipular cadenas de caracteres?"@"<stdlib.h>"@"<string.h>"@"<cassert>"@"<iostream>"@2
+13@2@7@"Que significa la extension .cpp?"@"Compilation PC Program"@"C Permanent Program"@"C Plus Plus"@"Ninguna de las anteriores"@3
+14@2@7@"Que es un diagrama de flujo?"@"Una representacion grafica de un algoritmo"@"Es un programa compilado"@"Es una representacion grafica de las variables de un programa"@"Ninguna de las anteriores"@1
+15@2@8@"Que funcion cumple la secuencia de escape \n?"@"Retrocede un espacio"@"Se mueve a la siguiente posicion del tabulador vertical"@"Pone solo el caracter '*'"@"Se mueve a una linea nueva"@4
+16@2@8@"Cual es el rango de valores posibles en una variable del tipo ""long int""?"@"De -32.768 a +32.767"@"De 0 a 65.535"@"De -2.147.483.648 a +2.147.483.647"@"De 0 a 4.294.967.295"@3
+17@2@9@"Cuantas veces puede ejecutarse un ciclo for?"@"De 0 a 10000 veces como maximo"@"De 1 a 10000 veces como maximo"@"De 0 a N veces"@"De 1 a N veces"@3
+18@2@9@"Cuantas estructuras repititivas basicas existen en C++?"@1@2@3@4@3
+19@2@10@"Una variable del tipo int almacena:"@"Enteros"@"Reales"@"Naturales"@"Integrales"@1
+20@2@10@"Que variables pueden ser accedidas desde cualquier parte del programa?"@"Locales"@"Globales"@"Flotantes"@"Vacias"@2
+21@2@11@"Si una funcion recibe como parametro un const int& a, se le esta pasando..."@"El valor de la variable original"@"La ubicacion de memoria de la variable, y puede hacerle cambios"@"Se le pasa el valor de la variable, pero no puede hacerle cambios"@"Se le pasa la ubicacion en memoria de la variable y no puede hacerle cambios"@4
+22@2@11@"Si ""a"" y ""b"" son del tipo int, y se realiza la operacion a/b Que operacion es esta?"@"Divison real"@"Modulo de la divison entera"@"Division entera"@"OR Logico bit a bit"@3
+23@2@12@"C++ es .."@"Un lenguaje de bajo nivel"@"Un lenguaje orientado a objetos"@"Un lenguaje que usa Java"@"Un lenguaje especifico para Windows"@2
+24@2@12@"En cual de las siguientes sentencias ""a"" no esta definida como una variable?"@"String a;"@"unsigned float a;"@"char a;"@"const int a;"@4
+25@2@13@"Que hace la funcion rand()?"@"Retorna numeros aleatorios"@"Se usa para borrar variables"@"No existe esa funcion"@"Devuelve una secuencia ordenada de numeros"@1
+26@2@13@"En que año nacio C++?"@1992@2005@2000@1983@4
+27@2@14@"Para que sirve la prueba de escritorio?"@"Verifica el algoritmo sin ejecutarlo"@"Para nada, no se utiliza"@"Ejecuta el programa y verifica si hay errores"@"Ninguna de las anteriores"@1
+28@2@14@"Cuantas son las fases de programacion?"@5@8@7@"No contiene fases"@3
+29@2@15@"En C++ Cual de los siguientes tipos de datos representan a un numero Real?"@"char"@"int"@"float"@"string"@3
+30@2@15@"Cuando se genera un bucle infinito en una estructura repetitiva en C++?"@"No existen estructuras repetitivas en C++"@"Cuando su condicion se evalua siempre como verdadera"@"Cuando no tiene condicion"@"Cuando existen errores de compilacion"@2
+31@2@16@"Cuantas veces se ejecuta la estructura de control ""do while""?"@"De 0 a N veces"@"De 1 a N veces"@"Exactamente N veces"@"Una sola vez"@2
+32@2@16@"Que significa que una funcion reciba un parametro por referencia?"@"Que la funcion trabaja con una copia y no con la variable original"@"Que si la funcion modificara el valor recibido, el original no se altera"@"Que la funcion trabaja con la variable original y no con una copia"@"Ninguna de las anteriores"@3
+33@2@17@"Como se define una constante en las directivas de preprocesador?"@"#include ..."@"#const ..."@"#define ..."@"#constant ..."@3
+34@2@17@"Como puedo escribir comentaros en C++?"@"/..../"@"/* ... */"@"coment: ""..."""@"..."@2
+35@2@18@"Cuando un if es anidado?"@"Cuando se encuentra dentro del bloque de otro if"@"No puede ser anidado"@"Si su condicion es siempre verdadera"@"Si su condicion es siempre falsa"@1
+36@2@18@"En C++, la condicion del while tiene que estar encerrada obligatoriamente por..."@"Parentesis"@"Corchetes"@"Llaves"@"Comillas"@1
+37@2@19@"Quien es el creador de C++?"@"Bill Gates"@"Steve Jobs"@"Bjarne Stroustrup"@"Karl Steinbuch"@3
+38@2@19@"Que operador se utiliza para escribir en la salida estandar con cout?"@"<<"@">>"@"<-"@"->"@1
+39@2@20@"Es C++ case sensitive?"@"Solo en los comentarios"@"Si"@"No"@"Solo en la salida estandar"@2
+40@2@20@"Cuando es indicado utilizar un ciclo for?"@"Cuando se conoce cuantas veces debe ejecutarse un bloque"@"Para decidir entre caminos alternativos"@"Para repetir un bloque hasta que se deje de verificar una condicion"@"Ninguna de las anteriores"@1
+41@2@21@"Que indica la sentencia return 0?"@"Que hubo un error en la funcion main"@"Devuelve el valor 0 a la funcion invocadora y termina su ejecucion la funcion actual"@"Sirve solo para finalizar la funcion main"@"Todas son correctas"@2
+42@2@21@"A cuanto equivale un GB?"@"1000 mb"@"1000 kb"@"1024 kb"@"1024 mb"@4
+43@2@22@"Que tipo de datos admite un switch como condicion?"@"Solo int"@"int y char"@"Int, double, long y todas sus variantes unsigned"@"Cualquier tipo de dato"@2
+44@2@22@"Que significa la sigla IDE proveniente del ingles?"@"Integracion de Desarrollos Estaticos"@"Entorno de Desarrollo Integrado"@"Dinamismo Integral de los Desarrollos"@"Desarollo integramente Realizable"@2
+45@2@23@"A que hace referencia un error de sintaxis?"@"Se violan las reglas de gramatica del lenguaje"@"Errores del programador en el diseño del algoritmo y posterior programa."@"Se introducen accidentalmente cuando se intenta corregir un error logico."@"Se presentan despues que el programa fue compilado"@1
+46@2@23@"Una cadena de caracteres literal se representa mediante…"@"Una sucesion de caracteres entre comillas simples."@"Una sucesion de caracteres entre asteriscos."@"Una sucesion de caracteres entre comillas dobles."@"Ninguna de las anteriores"@3
+47@2@24@"Como es la estructura de una funcion?"@"Definicion, encabezamiento y cuerpo"@"Cuerpo, definicion y encabezamiento"@"Encabezamiento, definicion y cuerpo"@"Encabezamietno, cuerpo y retorno"@3
+48@2@24@"Que caracteristicas deben tener los algoritmos?"@"Deben ser finitos, precisos y responder a todos los problemas similares"@"Deben tener la menor cantidad de lineas de codigo posibles"@"Tienen que ocupar el menor espacio posible en el disco"@"Debe funcionar para todos los SO existentes"@1
+49@2@25@"Cual es la diferencia entre una variable ""float"" y una ""int""?"@"Int es para numeros reales y float para enteros"@"Float se usa para caracteres e Int para enteros"@"Int se usa para numeros enteros y float para numeros reales"@"Ninguna de las anteriores"@3
+50@2@25@"Cual de los siguientes operadores en C++ corresponde a un OR logico?"@"||"@"//"@"\\"@"Ninguna de las anteriores"@1
+51@2@26@"Cuantos bytes de memoria utiliza una variable float?"@2@4@10@8@2
+52@2@26@"La operacion ""variable+=2"" equivale a..."@"variable=variable+2"@"variable+variable=2"@"variable=variable"@"variable=2"@1
+53@2@27@"En C++ Cual de estos tipos de funciones no retorna ningun valor?"@"Void"@"Int"@"Bool"@"Char"@1
+54@2@27@"Cual de los siguientes operadores de comparacion en C++ es el operador AND logico?"@"!="@"&&"@"||"@"^^"@2
+55@2@28@"Que es un compilador?"@"Una parte del hardware de la PC"@"Un programa de administrar los recursos de la PC"@"Un programa que traduce un programa escrito en un lenguaje a otro lenguaje"@"Ninguna de las anteriores"@3
+56@2@29@"Un lenguaje de alto nivel es:"@"FORTRAN"@"C"@"C++"@"Todas son correctas"@4
+57@2@29@"El rango del tipo char es:"@"De -128 a 127"@"De -32768 a 32767"@"De -65565 a 65564"@"Ninguna de las anteriores"@1
+58@2@30@"Cuales son tipos de datos validos para una variable?"@"int, float, char, bool"@"main,void"@"if,else"@"for,while"@1
+59@2@30@"Como se clasifican las estructuras selectivas?"@"Simples y dobles"@"Anidadas"@"Multiples"@"Todas las anteriores"@4
+60@2@31@"Cuantas veces se puede anidar la funcion if?"@8@16@256@"No tiene limite"@4
+61@2@31@"En un diagrama de flujo, Para que son usadas las lineas de flujo?"@"Para conectar los otros componentes del diagrama e indicar el flujo logico"@"Para indicar un punto de ramificacion del programa"@"Para indicar una operacion de entrada o salida"@"Para indicar el principio o fin del programa"@1
+62@2@32@"Como se llama la libreria donde esta definido el numero PI?"@"<c.math>"@"<math.h>"@"<stdlib>"@"Ninguna de las anteriores"@2
+63@2@32@"El cout se debe declarar como..."@"int cout;"@"bool cout;"@"define cout;"@"Ninguna de las anteriores"@4
+64@2@33@"Que es un lenguaje de alto nivel?"@"Un lenguaje diseñado para que a la gente le sea mas facil escribir programas"@"Un lenguaje que no necesita traducirse para que una maquina lo entienda"@"Es aquel en el que sus instrucciones controlan directamente el hardware"@"Ninguna de las anteriores"@1
+65@2@33@"Que es un programa enlazador?"@"Es un programa que administra los recursos de la PC"@"Combina el codigo objeto de las partes del programa con el codigo objeto que el compilador produjo."@"Es un programa que se encarga de conectar la PC a la red de internet."@"Ninguna de las anteriores"@2
+66@2@34@"Siendo N un numero entero positivo Que indica en la sentencia cout <<fixed<<setprecision(n)<< variable;?"@"Cantidad de posiciones despues de la coma que quiero mostrar"@"Digitos maximos del numero que voy a mostrar"@"Esa sentencia es incorrecta"@"Ninguna de las anteriores"@1
+67@2@34@"Que hace la funcion srand()?"@"Devuelve un numero aleatorio"@"Cambia la semilla de la funcion rand()"@"No existe esa funcion"@"Devuelve floats aleatorios"@1
+68@2@35@"La diferencia entre la estructura ""while"" y ""do while"" es:"@"Una se ejecutra mientras la condicion sea falsa, y la otra verdadera"@"El ""do while"" se ejecuta por lo menos una vez y el while puede no ejecutarse"@"Una retorna una variable y la otra no"@"Ninguna de las anteriores"@2
+69@2@35@"Que es un lenguaje de bajo nivel?"@"Un lenguaje sin derechos de autor"@"Un lenguaje que no funciona del todo bien"@"Un lengauje con una interfaz amigable con el usuario"@"Niguna de las anteriores"@4
+70@2@36@"Que funcion me sirve para comparar dos cadenas de caracteres?"@"strcpy()"@"strcat()"@"strdup()"@"strcmp()"@4
+71@2@36@"Que realiza la funcion setw(n)?"@"Realiza la potencia n^n"@"Devuelve el factorial de n"@"Realiza un salto de linea"@"Ninguna de las anteriores"@4
+72@2@38@"Que realiza la sentencia cout << endl; ?"@"Salto de linea"@"Tabulacion"@"Borra un espacio"@"Es incorrecta esa sentencia"@1
+73@2@38@"A que se le llama Bug?"@"Una busqueda de datos"@"Optimizacion del codigo"@"Fallo en el codigo"@"Prueba de escritorio"@3
+74@2@39@"Cual es la utilidad de la funcion cin.ignore en C++?"@"Elimina los espacios en blanco"@"Salta de linea"@"Lee hasta el separador"@"Elimina todos los caracteres del buffer hasta el delimitador"@4
+75@2@39@"Que tipo de estructura es un arreglo?"@"Dinamica"@"Estatica"@"Basica"@"De control"@2
+76@2@40@"Que tipo de valor retorna una funcion del tipo int?"@"Caracter"@"Entero"@"No retorna ningun valor"@"Un arreglo"@2
+77@2@40@"Que es un algoritmo?"@"Un conjunto de pasos infinitos para resolver un problema"@"Un conjunto finito de pasos que no tienen un orden, para resolver un problema"@"Un conjunto ordenado y finito de pasos para el cumplimiento de un objetivo"@"Ninguna de las anteriores"@3
+78@2@41@"Cual de los siguientes es el lenguaje procedural mas antiguo?"@"C++"@"C"@"COBOL"@"FORTRAN"@4
+79@2@41@"Cual es el primer paso para desarrollar un programa?"@"Codificacion del programa"@"Diseño del programa"@"Analisis del problema"@"Pruebas del programa"@3
+80@2@42@"Los signos ==, !=, <, >, <=, >= corresponden a operadores..."@"Condicionales"@"Relacionales"@"Aritmeticos"@"Logicos"@2
+81@2@42@"Es una mejor practica utilizar..."@"If anidados antes que secuencias de if"@"Secuencias de if en vez de if anidados"@"Misma cantidad de if anidados que en secuencia"@"Da lo mismo"@1
+82@2@43@"Que intento hacer si declaro una variable de la forma double <nombreVariable>?"@"Es lo mismo que una variable int"@"Es lo mismo que una variable float"@"Obtener el doble de precision decimal que con un float"@"Asignarle un numero entero el doble de grande que a un int"@3
+83@2@43@"En que libreria de C++ se encuentra la funcion pow()?"@"<iostream>"@"<mathfunctions.h>"@"<mathematica.h>"@"<cmath>"@4
+84@2@44@"Que secuencia de escape retrocede un espacio?"@"\a"@"\n"@"\b"@"\t"@3
+85@2@44@"Cual de los siguientes puede ser el ambito de una variable?"@"Programa"@"Funcion"@"Bloque"@"Todas las anteriores"@4
+86@2@45@"Que es PSeInt?"@"Un programa que sirve para descargar archivos"@"Una herramienta para asistir a estudiantes en sus primeros pasos en programacion"@"Un lenguaje de programacion"@"Un formato de archivo"@2
+87@2@45@"En C++ el tipo de dato bool se usa para..."@"Procesar datos alfabeticos"@"Definir variables numericas"@"Representar datos logicos ( true o false )"@"Ninguna de las anteriores"@3
+1@4@1@"La derivada de la funcion y= cos^2(x) - 1 es:"@"-2sen (x) . cos(x)"@"2sen(x) . cos^2(x)"@"sen (x) . 2cos(x)"@"-2sen(x) . cos (x) -1"@1
+2@4@1@"Una funcion f(x) es discontinua esencial si..."@"Los limites laterales NO coinciden."@"Si los limites laterales coinciden."@"Si los lim. laterales NO coinciden o algunos de ellos es infinito."@"Ninguna de las anteriores."@3
+3@4@2@"Cual es el rango de la funcion coseno hiper-bolico?"@"Todos los reales"@"(-infinito,1)"@"[-1,infinito)"@"Todos los reales positivos, incluido el cero"@3
+4@4@2@"La derivada respecto a ""x"" de la funcion f(x)=2x+46 es..."@46@3@2@"No se puede derivar"@3
+5@4@3@"Que tipo de intervalo es el siguiente? (a,b) = { x / a < x < b }"@"Cerrado"@"Abierto"@"Semicerrado"@"Semiabierto"@2
+6@4@3@"Cual de las siguientes es una funcion cuadratica?"@"y=f(x)=x+9"@"y=f(x)=15"@"y=f(x)=tg(x)"@"Ninguna de las anteriores"@4
+7@4@4@"Cual es el dominio de la funcion trigonometrica sen(x)?"@"Reales"@"Reales positivos"@"Reales positivos (incluido el 0)"@"[-1,1]"@1
+8@4@4@"El producto o cociente entre dos funciones impares es..?"@"No esta definido"@"Otra funcion impar"@"Otra funcion par"@0@3
+9@4@5@"El dominio de la funcion ln(x) es ..."@"Reales positivos"@"Reales menos el cero"@"Reales"@"Naturales"@1
+10@4@5@"x --> a significa ..."@"Que ""x"" es menor que ""a"""@"Que ""x"" es igual a ""a"""@"Que ""x"" tiende a ""a"""@"Que ""a"" tiende a ""x"""@3
+11@4@6@"Cuando un entorno se considera reducido?"@"Cuando el radio es infinito"@"Cuando se excluye su centro"@"Cuando el radio es menor a 1"@"Ninguna de las anteriores"@2
+12@4@6@"La derivada de una funcion f en un punto x se puede escribir como..."@"f?x"@"x?f"@"x''"@" f ‘(x)"@4
+13@4@7@"Analizando su grafica, podemos ver que una funcion es IMPAR si.."@"Es simetrica respecto al eje Y"@"Es simetrica respecto al eje X"@"Es simetrica respecto al origen de coordenadas"@"Todas las anteriores"@3
+14@4@7@"La funcion y=arc tg (x)"@"Esta acotada"@"Tiene supremo en pi/2"@"Tiene infimo en pi/2"@"Todas las anteriores"@4
+15@4@8@"Que obtenemos del producto de dos funciones pares?"@"Otra funcion par"@"Otra funcion impar"@"No se pueden multiplicar funciones pares"@"Una funcion sin paridad"@1
+16@4@8@"Como se subclasifican las funciones polinomicas?"@"Constantes o de grado N"@"Racionales, a trozos o radicales"@"Exponenciales, logaritmicas o trigonometricas"@"Ninguna de las anteriores"@1
+17@4@9@"Por propiedad, la integral de una constante es igual a..."@"La constante por la integral"@"La reciproca de la constante por la integral"@"La constante mas la integral"@"La integral menos la constante"@1
+18@4@9@"Un limite puede no existir por..."@"Oscilacion o infinitud"@"Limites laterales distintos o infinitud"@"Limites laterales distintos, infinitud u oscilacion"@"Ninguna de las anteriores"@3
+19@4@10@"La derivada de la funcion compuesta uv es..."@"u'v+uv'"@"uv'-u'v"@"u'+v'"@"u'v'"@1
+20@4@10@"Cual es la derivada de la funcion Sen(u)?"@"Cos(u)u'"@"-Cos(u)u'"@"Cos(u)"@"-Cos(u)"@1
+21@4@11@"Para que nos sirve la tabla de Sadosky?"@"Para hacer la resolvente"@"Para factorizar"@"Para encontrar reglas de derivacion"@"No sirve para nada"@3
+22@4@11@"Como obtenemos el dominio de una funcion definiada a trozos?"@"La union del dominio de cada funcion"@"La interseccion del dominio de cada funcion"@"La diferencia entre los dominios de cada funcion"@"Ninguna de las anteriores"@1
+23@4@12@"Cual de estas funciones tiene periodo 2pi?"@"y= x / pi"@"y = sen(pi/x)"@"y = cos(x)+pi"@"y = pi x^2 +1"@3
+24@4@12@"Cual de estas expresiones NO representa el valor absoluto de un numero n?"@"|n|"@"n si n>=0 y -n si n<0"@"(n+1)/2"@"Ninguna de las anteriores"@3
+25@4@13@"Que significa que x tiende a ""a""?"@"Que toma valores proximos a ""a"""@"Que x es igual a ""a"""@"Que en promedio f(x) vale ""a"""@"Ninguna de las anteriores"@1
+26@4@14@"El conjunto de las infinitas primitivas que tiene una funcion es la definicion de ..."@"Funcion primitiva"@"Integral indefinida"@"Integral del coseno"@"Integral definida"@2
+27@4@14@"Cuando existe el limite de una funcion?"@"Cuando los limites lateras son distintos"@"Cuando los limites laterales son iguales"@"Cuando no existe Limite derecho"@"Cuando no existe Limite izquierdo"@2
+28@4@15@"Cual es la derivada del Cos(u)?"@"-Cos(u)*u'"@"-Sen(u)*u'"@"-Senh(u)*u'"@"Sen(u)*u'"@2
+29@4@15@"Cuando una funcion es PAR?"@"Cuando f(x)=-f(x)"@"Cuando f(x)=f(-x)"@"Cuando f(x)=2f(-x)"@"No existen funciones pares"@2
+30@4@16@"La integral indefinida de la funcion (x)=5x^4 ..."@"20x^3 + C"@"x^5 + C"@"x^5/5 +C"@"5x^3+C"@2
+31@4@16@"La siguiente funcion f(x) = (x-5)/(x-2) tiene una asintota vertical en ..."@"x=5"@"No tiene"@"y=2"@"x=2"@4
+32@4@17@"Cual NO es un tipo de intervalo?"@"Abierto"@"Cerrado"@"Libre"@"Semi Abierto"@3
+33@4@17@"Cual de estas NO es una regla de derivacion?"@"Derivada de una constante es 0"@"Derivada de la identidad es 1"@"Derivada de la suma es la suma de las derivadas"@"Derivada de una funcion real es imaginaria"@4
+34@4@18@"Que es una recta tangente a una curva?"@"Una recta que toca la curva pero no la cruza"@"Recta que cruza la curva en dos puntos"@"Recta que cruza la curva en un punto"@"Recta que no toca la curva"@1
+35@4@18@"Una curva en el plano XY es la grafica de una funcion de X si y solo si..."@"Una linea vertical interseca a la curva mas de una vez"@"Ninguna recta vertical interseca con la curva mas de una vez"@"Dos lineas verticales intersecan con la curva mas de una vez"@"Ninguna de las anteriores"@4
+36@4@19@"Cuantos tipos de limites indeterminados existen?"@6@10@7@"Inifinitos"@3
+37@4@19@"Cual de los siguientes limites no es indeterminado?"@"lim x->100 de 100/x"@"lim x->0 de x/5"@"lim x-> -1 de -1x/-1"@"Ninguna de las anteriores"@4
+38@4@20@"Cual de las siguientes no es una indeterminacion?"@"0/0"@"?-?"@"?/0"@"1^?"@3
+39@4@20@"A que es igual la derivada de la funcion compuesta f(x) = u / v ?"@"(uv'-u'v)/v^2"@"(u'v-uv')/u^2"@"u'v-uv'/u^2"@"(u'v-uv')/v^2"@4
+40@4@21@"Cuando una funcion esta acotada?"@"Cuando posee cotas superiores e inferiores"@"Cuando posee cotas superiores"@"Cuando posee cotas inferiores"@"Cuando carece de cotas"@1
+41@4@21@"Cuando una discontinuidad es evitable?"@"Cuando existe el limite pero la imagen no existe o no es igual"@"Cuando no existe limite"@"Cuando no es derivable en el punto"@"Ninguna de las anteriores"@1
+42@4@22@"Cual es la derivada de la funcion ln(x)?"@"1/x"@1@"x/x'"@"x'/x"@2
+43@4@22@"La discontinuidad de segunda especie se da cuando..."@"Los l[imites laterales son finitos y distintos"@"Ambos limites laterales son infinitos"@"Al menos uno de los limites laterales es infinito"@"Existe el limite pero la funcion no esta definida en el punto"@3
+44@4@23@"Cual es el rango de la funcion f(x) = tan(x)?"@"Reales"@"Reales positivos"@"Reales positivos incluido el cero"@"Enteros"@1
+45@4@23@"Que afirma el Teorema Fundamental del Calculo?"@"La derivacion e integracion de una funcion son operaciones equivalentes."@" h^2 = a^2 + b^2"@"La derivacion e integracion de una funcion son operaciones inversas."@"Toda funcion diferenciable en un punto es continua en dicho punto."@3
+46@4@24@"La funcion valor absoluto es..."@"Continua y no derivable"@"Discontinua pero derivable"@"Continua y derivable"@"Discontinua y no derivable"@1
+47@4@24@"En que puntos debe analizarse siempre la continuidad?"@"En x=0 y x=1"@"En los puntos que no pertenezcan al dominio"@"En donde haya cambios de relacion"@"Ninguna de las anteriores"@3
+48@4@25@"Una funcion es derivable en un punto ""a"" cuando es continua en el punto y ..."@"Las derivadas laterales son iguales"@"La derivada lateral derecha exista"@"La derivada lateral izquierda exista"@"Ninguna de las anteriores"@1
+49@4@26@"Que pasa cuando las curvas de dos funciones tienen un orden de contacto IMPAR en un punto Po de abscisa x=a?"@"Las curvas se atraviesan en ese punto"@"Las curvas son tangenciales en dicho punto"@"No existe el orden de contacto IMPAR"@"Las curvas son discontinuas en dicho punto"@1
+50@4@26@"El dominio de un polinomio es..."@"Todos los reales positivos"@"(-inf,1) U (1,inf)"@"Todos los reales"@"Los naturales"@3
+51@4@27@"Que una funcion sea derivable en x=a implica que..."@"La funcion es continua en x=a"@"La funcion puede ser o no continua en x=a"@"La funcion no es continua en x=a"@"Ninguna de las anteriores"@1
+52@4@27@"Cual de los siguientes es un ejemplo de indeterminacion?"@"0/0"@"inf/inf"@"inf * inf"@"Todas las anteriores son correctas"@4
+53@4@28@"A que es igual sin^2(x)+cos^2(x)?"@1@0@"tan(x)"@"cot(x)"@1
+54@4@29@"A que es equivalente decir que |x| < 5"@"x<5"@"x<-5 y x>5"@"x<-5 o x>5"@"-5<x<5"@4
+55@4@29@"Cuando una funcion es biyectiva?"@"Si es sobreyectiva"@"Si es inyectiva"@"Si es sobreyectiva pero no inyectiva"@"Si es inyectiva y sobreyectiva"@4
+56@4@30@"Una funcion es periodica si..."@"Su grafica es simetrica respecto al origen de coordenadas"@"Esta acotada inferiormente"@"Repite sus valores a intervalos regulares de la variable independiente"@"No es par ni impar"@3
+57@4@31@"A que es igual la funcion secante(x)?"@"1/tg(x)"@"1/cos(x)"@"1/sen(x)"@"sen(x)/cos(x)"@2
+58@4@31@"Cuanto es el lim x->-1 de x^2-1 / x^2+2x+1?"@"Indeterminacion 0/0"@"Indeterminacion 0/infinito"@0@1@1
+59@4@32@"Que es el rango de una funcion?"@"Conjunto de valores que puede tomar la variable independiente"@"Conjunto de valores que puede llegar a tomar la funcion"@"Es la interseccion entre el conjunto Imagen y el Dominio"@"Ninguna de las anteriores"@2
+60@4@32@"Cuando una funcion es continua?"@"Cuando no tiene limite"@"SI lim x-->a f(x) =/= f(a) para todo ""a"" en el Df"@"SI lim x-->a f(x) = f(a) para todo ""a"" en el Df"@"Ninguna de las anteriores"@3
+61@4@33@"Cual es el rango de la funcion Mantisa?"@"Intervalo [0,1]"@"Intervalo [0,1)"@"Intervalo (0,1]"@"Intervalo (0,1)"@2
+62@4@33@"Cuando el sen(x)=0?"@"Solo en 0 y pi"@"En x = kPi con k entero"@"En x = pi/2 + k con k entero"@"En x=0"@2
+63@4@34@"Como se definen las cotas superiores?"@"Existe K / f(x) <= K , para todo x que exista en el dominio de la funcion"@"Existe K f(x) >= K, para todo x que exista en el dominio de la funcion"@"para todo K / f(x) <= K, para todo x que exista en el dominio de la funcion"@"Para todo K f(x) >= K, para todo x que exista en el dominio de la funcion"@1
+64@4@34@"Si una funcion esta acotada superiormente entonces..."@"Tiene una unica cota"@"La menor de ellas se llama maximo"@"La mayor se denomina supremo"@"Tiene infinitas cotas superiores"@4
+65@4@35@"Cual de los siguientes enunciados es correcto?"@"Derivabilidad implica continuidad"@"Continuidad implica derivabilidad"@"Una funcion es derivable si y solo si es continua"@"Ninguna de las anteriores"@1
+66@4@35@"Que matematico argentino recopilo reglas de derivacion e integrales, entre otras?"@"Sadosky"@"Euler"@"Jabloñsky"@"Gauss"@2
+67@4@36@"La derivada de una funcion en un punto P es ..."@"La pendiente de la recta tangente a la curva en dicho punto"@"La pendiente de la semirrecta tangente a la curva en dicho punto"@"La pendiente de la secante a la curva en ese punto P"@"Ninguna de las anteriores"@1
+68@4@36@"El limite de la funcion f(x)=1/x cuando x tiende a infinito es..."@"Indeterminacion 1/infinito"@1@0@"Infinito"@3
+69@4@38@"Que es el cociente incremental?"@"DeltaY/k"@"DeltaK * y * k"@"Delta Y / Delta X"@"Delta Y"@3
+70@4@38@"Cual es la derivada de la funcion u^n?"@"(n-1) u u'"@"n u u'"@"(n-1) u"@"(n+1) u u'"@1
+71@4@39@"Cual es la hipotesis del teorema de Bolzano?"@"f es una funcion continua en el intervalo abierto (a,b)"@"f es una funcion continua en el intervalo cerrado [a,b]"@"f es una funcion continua en el intervalo semiabierto [a,b)"@"Ninguna de las anteriores"@2
+72@4@39@"Cual de las siguientes afirmaciones sobre limites es correcta?"@"El limite de una suma es la suma de los limites"@"El limite de un cociente es el cociente de los limites"@"El limite de un producto es el producto de los limites"@"Todas son correctas"@4
+73@4@40@"Cual es el dominio de la funcion f(x)=x+2/x-1"@"Los reales positivos"@"Los reales excepto el -2"@"Todos los reales"@"Todos los reales menos el 1"@4
+74@4@40@"Es la funcion sen(x) una funcion elemental?"@"Si"@"No"@"Depende el valor de X"@"Es elemental y compuesta"@1
+75@4@41@"Que representa graficamente una funcion algebraica de grado 2?"@"Una Hiperbola"@"Una parabola"@"Una Recta"@"Un hiperboloide"@2
+76@4@41@"Una funcion es diferenciable en x=a si y solo si..."@"Es continua en x=a"@"Es discontinua en x=a"@"Es derivable en x=a"@"Todas son correctas"@3
+77@4@42@"Analizando su grafica, podemos ver que una funcion es PAR si..."@"Es simetrica respecto al eje Y"@"Es simetrica respecto al eje X"@"Es simetrica respecto al origen de coordenadas"@"No existe para los valores de X impares"@1
+78@4@42@"El limite de una constante por una funcion es igual a..."@"La constante por el limite de la funcion"@"El limite de la constante por el limite de la funcion"@"El limite de la funcion"@"Ninguna de las anteriores"@1
+79@4@43@"Cual es la derivada de 2x?"@0@"x^2"@2@"2x"@3
+80@4@43@"Que expresa el teorema del seno?"@"A / sen(a) = B / sen(b) = C / sen(c)"@"Cateto Opuesto / Hipoenusa = sen(a)"@"Enviar otra pregunta."@"Sen(x) / Cos(x) = Tan(x)"@1
+81@4@44@"En la funcion sen(|x|) es verdad que..."@"No tiene imagen negativa"@"Es impar"@"Es igual a la funcion |sen(x)|"@"Es par"@4
+82@4@44@"Cual de las siguientes es una identidad correcta?"@"sen (x) = 1 - cos (x)"@"sec^2(x)= 1 + tan^2(x)"@"sec (x) = 1/sen (x)"@"Ninguna de las anteriores"@2
+83@4@45@"A que es igual la Cotg(a)?"@"1/Tg(a)"@"Sen(a)/Cos(a)"@"Cos(a)/Tg(a)"@"arcTg(a)"@1
+84@4@45@"1-sen^2(x) es igual a ..."@"Cos^2(x)"@"Tg(x)"@"Cos(x)"@"Hipotenusa ^ 2"@1
+1@3@1@"Para un multiplexor de 16 canales de entrada, las lineas de control seran:"@4@1@2@3@1
+2@3@1@"El numero 379 en Codigo BCD Ex-3 es"@"0110 1010 1100"@"0110 1011 1100"@"0110 1010 1001"@"0011 0111 1001"@1
+3@3@2@"Cuantos bits se necesitan para representar al numero 290 en codigo Johnson?"@8@146@290@"Ninguna de las anteriores"@2
+4@3@2@"Que compuerta electronica esta definida como universal?"@"AND"@"NAND"@"OR"@"XOR"@2
+5@3@3@"Cual es la base del sistema hexadecimal?"@18@6@16@8@3
+6@3@3@"Con cuantos bits se representa el numero 34 en el codigo EBCDIC?"@24@8@32@16@4
+7@3@4@"Un multiplexor es un circuito combinacional con..."@"Varias entradas y una unica salida de datos"@"Una unica entrada y varias salidas de datos"@"Una unica entrada y una unica salida de datos"@"Varias entradas y varias salidas de datos"@1
+8@3@4@"Cuanto es 3+6 en el codigo BCD Exceso de 3 ?"@1011@1100@1000@1101@2
+9@3@5@"En que base esta expresado el numero A10B?"@"Octal"@"Hexadecimal"@"Binario"@"Decimal"@2
+10@3@5@"El numero 59 en binario es ..."@110011@111111@110101@111011@4
+11@3@6@"Cual de los siguientes codigos es no-ponderado?"@"BDC AIKEN"@"BCD ex3"@"BDC NATURAL"@"BCD 1245"@2
+12@3@6@"En una compuerta AND su salida sera 1 si y solo si…"@"Todas las entradas son 1"@"Una o mas entradas son 1"@"Todas las entradas son 0"@"Ninguna de las anteriores"@1
+13@3@7@"El numero AC9 en base decimal es..."@10129@"1.01011E+11"@2761@3523@3
+14@3@7@"93+75 en BCDN es..."@"A8"@"0001 0110 1000"@10101000@"Ninguna de las anteriores"@2
+15@3@8@"Cuantos bits se necesitan para representar al 99 en BCD Natural?"@4@6@8@16@3
+16@3@8@"En suma BCD ex3 Que debemos hacer si el resultado es mayor a 1100?"@"Si hay acarreo sumar 0011 y si no hay sumar 1101"@"Si hay acarreo sumar 1101 y si no hay sumar 0011"@"Si hay acarreo sumar 0011 y si no hay sumar 0110"@"Si hay acarreo sumar 0110 y si no hay sumar 0011"@1
+17@3@9@"Cuantos bits son necesarios para representar el numero 19 en codigo Johnson?"@5@20@19@2@2
+18@3@9@"En la tabla de Karnaugh Es posible agrupar de a 3 bits?"@"Solo si son adyacentes"@"Si, siempre se puede"@"Solo una vez"@"No, no se puede nunca"@4
+19@3@10@"Que compuerta se usa para representar el operador * del algebra booleana?"@"AND"@"OR"@"XOR"@"NAND"@1
+20@3@10@"Cuanto es el complemento a 2 del numero 11000101?"@"Es 00111011"@"Es 00111010"@"Es 11222121"@"Es 00101101"@1
+21@3@11@"El codigo Johnson es.."@"Continuo"@"Ciclico"@"Continuo y Ciclico"@"Continuo y Ciclico"@3
+22@3@11@"Que codigo es generalmente utiilizado en las PCs para representar caracteres y simbolos?"@"BCDN"@"Johnson"@"BCD Ex3"@"ASCII"@4
+23@3@12@"Cual es el peso de cada digito en BCD Aiken?"@"8 4 2 1"@"2 4 2 1"@"5 4 2 1"@"Ninguna de las anteriores"@2
+24@3@12@"Que capacidad de representacion se tiene con 3 digitos en base Octal?"@267@424@512@1024@3
+25@3@13@"Cuando un sistema numerico debe comenzar a utilizar letras?"@"Cuando la base es mayor a 10"@"Cuando la base es mayor a 8"@"Solo cuando la base es 16"@"Ninguna de las anteriores"@1
+26@3@14@"A cuanto equivale un yottaflops?"@"10^24"@"10^12"@"10^6"@"10^15"@1
+27@3@14@"En que se basa la segunda forma canonica?"@"Suma de productos"@"Producto de sumas"@"Suma de cocientes"@"Ninguna de las anteriores"@2
+28@3@15@"En un pasaje directo de Base16 a Base2 Cuantos bits Base2 le corresponden a uno Base16?"@2@16@4@8@3
+29@3@15@"En Codigo Johnson A cuanto equivale cada 0 a la derecha del ultimo 1?"@2@0@1@"2N"@1
+30@3@16@"Para representar el numero 128 en el sistema binario se necesitan..."@"7 bits"@"64 bits"@"8 bits"@"Ninguna de las anteriores"@3
+31@3@16@"Si al sumar dos numeros BCD ex3 existe acarreo Que se debe hacer?"@"Sumar 0011"@"Restar 0011"@"Sumar 0110"@"Ninguna de las anteriores"@1
+32@3@17@"Cuantos bits utiliza se utiliza para cada caracter en el codigo ASCII sin contar el bit de control de paridad."@7@5@8@9@1
+33@3@17@"Para pasar de binario a octal debo agrupar de a..."@"2 digitos"@"3 digitos"@"8 digitos"@"4 digitos"@2
+34@3@18@"Que es un codificador?"@"Un circuito combinacional de 2^n entradas y n salidas"@"Un biestable RJ"@"Un circuito combinacional de 2n entradas y n salidas"@"Ninguna de las anteriores"@1
+35@3@18@"Que indica un codigo corrector de errores?"@"Cuantos errores hubo"@"Si hubo error o no, pero no cuantos"@"Detecta y sabe la posicion de los errores"@"Ninguna de las anteriores"@3
+36@3@19@"Para pasar de un numero en base 8 a uno en base 2 debo..."@"Expandir cada cifra en tres"@"Agrupar cada tres cifras"@"Expandir cada cifra en otras dos"@"Agrupar cada dos cifras"@1
+37@3@19@"Para simplificar utilizando el metodo de Karnaught se requiere que..."@"Los grupos esten formados por cantidades que sean potencias de 2"@"Las ubicaciones en el mapa sean adyacentes"@"No deben aparecer en la simplificacion variables repetidas"@"Todas son correctas"@4
+38@3@20@"Cual de los siguientes no es un metodo de simplificacion?"@"Metodo de Karnaugh"@"Metodo Sistematico"@"Metodo de Montecarlo"@"Metodo Algebraico"@3
+39@3@20@"Como se pueden representar los 0 y 1 del SNB en un equipo digital?"@"Ausencia y presencia de corriente"@"Voltaje bajo y voltaje alto"@"Contacto abierto y contacto cerrado"@"Todas son correctas"@4
+40@3@21@"Que es un bit?"@"Un digito del sistema binario"@"Un operador logico"@"Un ruido de la PC"@"Ninguna de las anteriores"@1
+41@3@21@"Cuales son los digitos utilizados en el sistema binario?"@"Uno y tres"@"Cero y dos"@"Cero y Uno"@"Todas son correctas"@3
+42@3@22@"La capacidad de representacion del codigo Gray respecto a la del sistema binario es..."@"Igual"@"Se necesitan 4 digito mas por cada uno en el sistema binario"@"Se necesita un digito mas que en el sistema binario"@"Ninguna de las anteriores"@1
+43@3@22@"En algebra booleana, cuando un termino esta incluido en otro, menos una variable que esta complementada"@"Eliminamos la variable complementada que se encuentra en el termino con mas variables"@"Eliminamos una cualquiera de las dos variables que difieren en el complemento"@"Eliminamos las dos variables que difieren en el complemento"@"Eliminamos el termino con mas variables"@1
+44@3@23@"A que codigo se le llama como “codigo reflejado”?"@"Johnson"@"Gray"@"ASCII"@"BCD NATURAL"@2
+45@3@23@"El numero 21 escrito en binario natural es…"@10111@11011@10100@10101@4
+46@3@24@"La suma binaria entre 110100101 y 010011010 es:"@1000111111@111000000@1011011100@10111101@1
+47@3@24@"En BCDNatural si existe acarreo se debe:"@"Sumar 0110 al resultado"@"Se resta 0110 al resultado"@"Se suma 0011 al resultado"@"Se resta 0011 al resultado"@1
+48@3@25@"Que numero binario es el numero D en base hexadecimal?"@100@1101@1110@1111@2
+49@3@26@"Que significa la sigla SND?"@"Sistema Numerico Digital"@"Sistema Numerico Decimal"@"Sistema Normal Digital"@"Ninguna de las anteriores"@2
+50@3@26@"Un codigo binario continuo es ciclico si..."@"La ultima combinacion es adyacente a la primera"@"Es adyacente"@"La ultima combinacion son todos unos"@"La ultima combinacion es igual a la primera"@1
+51@3@27@"El complemento a 2 del numero 01010 en binario es..."@1001@101@10101@10010@3
+52@3@27@"En algebras de Boole Con que operaciones se identifican al AND y al OR logico?"@"Suma y resta"@"Potenciacion y suma"@"Radicacion y resta"@"Suma y multiplicacion"@4
+53@3@28@"Dada la expresion booleana x´(y+zy). A que es equivalente si x=1?"@0@1@"Depende dle valor de z"@"Ninguna de las anteriores"@1
+54@3@29@"De los siguientes codigos Cual tiene capacidad de representacion 2n?"@"Gray"@"Johnson"@"BCD Aiken"@"BCD ex3"@2
+55@3@29@"Que tienen en comun los codigos BCD Aiken, BCD Natural y BCD 1245?"@"Son ponderados"@"Son autocomplementarios"@"Corrigen errores"@"Ninguna de las anteriores"@1
+56@3@30@"El sistema numerico binario..."@"Se basa en potencias de 2"@"Posee solamente dos digitos"@"Fue creado con el fin de simplificar el diseño de circuitos"@"Todas las anteriores"@4
+57@3@30@"El siguiente numero binario 100010001111 en octal es.."@8815@4217@202033@4215@2
+58@3@31@"Hamming creo un..."@"Lenguaje de programacion"@"Codigo de deteccion y correcion de errores"@"Un circuito integrado"@"Ninguan de las anteriores"@2
+59@3@31@"Que se debe hacer para restar dos numeros en BCDex3?"@"Hacer el complemento a dos del segundo numero y sumarlos"@"Cambiar los ceros por unos y viceversa del segundo numero y sumarlos"@"Hacer el complemento a dos del segundo numero y restarlos"@"Cambiar los ceros por unos y viceversa del segundo numero y restarlos"@2
+60@3@32@"Decimos que dos combinaciones binarias son adyacentes cuando..."@"Difieren en dos digitos"@"Difieren en un solo digito"@"Son iguales"@"Ninguna de las anteriores"@2
+61@3@32@"La capacidad de representacion del codigo Gray, siendo ""n"" la cantidad de bits, es..."@"2n"@"2(n-1)"@"2^n"@"n^2"@3
+62@3@33@"Para que fue diseñado el codigo Gray ... ?"@"Transformar informacion analogica en digital"@"Transformar informacion digital en analogica"@"Para conteo"@"Para revenir señales ilegales de los switches electromecanicos."@4
+63@3@33@"Cuanto es 10001 - 1010 en binario?"@111@1001@100@110@1
+64@3@34@"Cuantos casilleros tiene una tabla de karnaught para 5 variables?"@16@32@10@125@2
+65@3@34@"En que se basa la primera forma canonica?"@"Producto de sumas"@"Suma de productos"@"Suma de cocientes"@"Cocientes de sumas"@2
+66@3@35@"La redundancia ""p"" que debe añadirse a una entrada de n bits para codificar en Hamming es:"@"El menor p tal que p > n"@"El mayor p tal que p - 2^p <= -1-n"@"El menor p tal que p+n>2^n"@"El menor p tal que 2^p>n+p+1"@4
+67@3@35@"Como se codifica el 13 en codigo Johnson?"@1000000@111333@111111@111000@1
+68@3@36@"Que es un Nibble?"@"2 bits"@"4bits"@"8 bits"@"16 bits"@2
+69@3@36@"Como se llaman los circuitos combinacionales que comparan dos numeros?"@"Sumador Restador"@"Codificador"@"Biestable"@"Comparador"@4
+70@3@38@"Cual de las siguientes es una propiedad del algebra booleana?"@"Existencia de complemento"@"Existencia de absorvente"@"Conmutatividad"@"Todas son correctas"@4
+71@3@38@"Que numero decimal es el 0000 en BCD Ex3?"@0@3@1@"No existe ese numero en BCD ex3"@4
+72@3@39@"Cual de los siguientes es un codigo alfanumerico?"@"BCDN"@"BCD Aiken"@"EBCDIC"@"Codigo progresivo Johnson"@3
+73@3@39@"En que se basa el metodo grafico de Karnaught?"@"En la cantidad de bits de entrada de un circuito"@"En las compuertas universales"@"En la adyacencia logica"@"En las variables complementadas"@3
+74@3@40@"Una compuerta OR Que operacion del algebra booleana realiza entre sus entradas?"@"Multiplicacion"@"Division"@"Suma"@"Resta"@3
+75@3@40@"En que consiste el complemento a 2 de un numero binario?"@"Se le agrega un cero al final."@"Se cambian los ceros por unos, los unos por dos, y los dos por ceros"@"Se cambian los unos por ceros y los ceros por unos, y se suma uno luego"@"Se cambian los unos por los ceros y los ceros por los unos"@3
+76@3@41@"Cual es el complemento a 1 del numero 10011011?"@"Es 01100100"@"Es 10010110"@"Es 01100101"@"Es 10011100"@1
+77@3@41@"Cuanto es 43+64 en BCD Ex3?"@"0001 0000 0111"@"0001 0000 1101"@"0100 0011 1010"@"Ninguna de las anteriores"@3
+78@3@42@"El numero 10001 en decimal es ..."@16@17@18@19@2
+79@3@42@"Que significa la sigla BCD?"@"Binary Code Decimal"@"Binary Codification Digits"@"Binary Codification Decimal"@"Binary Code Digits"@1
+80@3@43@"Cual es una de las formas de epresentar numeros negativos en el sistema binario?"@"Poner muchos 1 adelante"@"Poner un 1 adelante"@"Poner muchos 0 adelante"@"Poner un 0 adelante"@2
+81@3@43@"De que dimensiones queda uan tabla de Karnaught para 3 variables?"@"2x4"@"3x3"@"4x4"@"8x8"@1
+82@3@44@"Cual de estas afirmaciones NO es correcta sobre los multivibradores biestables?"@"Generan registros acumuladores"@"Cambian su valor cada cierto tiempo"@"Requieren de un pulso externo para cambiar su valor"@"Las salidas dependen del estado anterior"@2
+83@3@44@"Que inconveniente tiene una memoria EPROM?"@"Es volatil"@"No se puede borrar"@"Se puede borrar, pero toda la memoria"@"Ninguan de las anteriores"@3
+84@3@45@"Un grupo de 8 bits recibe el nombre de..."@"Byte"@"Octeto"@"Nibble"@"Octobit"@1
+85@3@45@"Que significa la sigla ASCII?"@"Codigo numerico utilizado en computacion"@"Codigo normalizado americano para el intercambio de informacion"@"Codigos informaticos americanos II"@"Codigo normalizado para la busqueda de informacion"@2
+86@3@25@"El numero 7+1 en base Octal es ..."@8@"A"@10@71@3
+1@0@1@"En cinematica Que sucede cuando un objeto es lanzado hacia arriba y llega a la altura maxima?"@"La componente vertical de la velocidad se anula."@"La componente ""x"" de la velocidad se anula."@"La velocidad con la que cae es mayor a la velocidad de subida."@"Ninguna de las anteriores."@1
+2@0@1@"Un vector posee..."@"Origen, modulo, y sentido pero no direccion."@"Punto de aplicacion, modulo, sentido y direccion."@"Modulo, y direccion pero no siempre posee origen y sentido."@"Direccion, sentido y origen, pero no el modulo."@2
+3@0@2@"La sumatoria de fuerzas ejercidas sobre un cuerpo es igual a su masa por..."@"La aceleracion de la gravedad"@"La aceleracion del cuerpo"@"La rapidez del cuerpo"@"La energia"@2
+4@0@2@"Cuando se dice que un cuerpo esta en reposo?"@"Cuando esta quieto"@"Cuando se encuentra en el vacio"@"Cuando su firccion es cero"@"Cuando su aceleracion es nula"@4
+5@0@3@"Que es una lente delgada?"@"Un instrumento para medir la velocidad de la luz en el vacio"@"Sistema optico con dos superficies refractivas muy proximas entre si"@"Un trozo de cristal que solo refleja la luz"@"Ninguna de las anteriores"@2
+6@0@3@"Que es el peso?"@"La masa de un cuerpo"@"El producto entre la masa de un cuerpo y la aceleracion de la gravedad"@"Una velocidad que determina la masa de un cuerpo"@"Es una cantidad escalar"@2
+7@0@4@"Los rayos que pasan por el centro de curvatura de un espejo..."@"Se reflejan en la misma direccion pero sentido opuesto"@"Pasan por le foco"@"Salen paralelos"@"Convergen todos en un punto"@1
+8@0@4@"Que significa MRU?"@"Movimiento Recto Universal"@"Movimiento Real Uniforme"@"Movimiento Rectilineo Uniforme"@"Ninguna de las anteriores"@3
+9@0@5@"En el sistema internacional de medidas En que unidad se mide la velocidad?"@"m/s"@"km/h"@"cm/min"@"mol"@1
+10@0@5@"En el MCU la velocidad tangencial..."@"Tiene modulo constante pero cambia de direccion"@"Tiene tanto modulo como direccion variable"@"Tiene modulo y direccion constante"@"Tiene direccion constante pero modulo variable"@1
+11@0@6@"Si un rayo pasa por el punto focal Como se reflejara con respecto al eje optico?"@"Perpendicular"@"No se refleja"@"Paralelo"@"Ninguna de las anteriores"@3
+12@0@6@"Cual es la velocidad de la luz en el vacio?"@"299 792 458 m/s"@"599 745 123 m/s"@"153 548 465 m/s"@"845 321 789 m/s"@1
+13@0@7@"Una lente biconvexa tiene radios de curvatura r1=60 y r2=40 (en cm) y n=1,5. Cual es la distancia focal?"@"-48cm"@"50cm"@"48cm"@"No existe"@3
+14@0@7@"Cual de los siguientes es un error sistematico?"@"De calibracion"@"Metodo de division"@"Tecnica imperfecta"@"Todos los anteriores"@4
+15@0@8@"En optica Cuales de las siguientes afirmaciones es correcta?"@"El rayo incidente, el rayo reflejado/refractado y la normal estan en el mismo plano"@"La normal y el rayo incidente estan en el mismo plano"@"El rayo indicente y el rayo reflejado/refractado estan en el mismo plano"@"Ninguna de las anteriores"@1
+16@0@8@"Cual de estos no es un tipo de lente?"@"Convergente"@"Revergente"@"Divergente"@"Ninguna de las anteriores"@2
+17@0@9@"La energia cinetica es la generada por..."@"El calor"@"El movimiento"@"El rozamiento"@"Ninguna de las anteriores"@2
+18@0@9@"Las leyes de la dinamica de Newton son..."@"De gravitacion y elasticidad"@"De inercia, de fuerza y de accion y reaccion"@"De elasticidad y rozamiento"@"Ninguna de las anteriores"@2
+19@0@10@"La energia mecanica es igual a..."@"E. Cinetica + E. Potencial + W No Conservativo"@"Es igual a la energia potencial"@"Es la suma del trabajo de todas las fuerzas"@"Todas son correctas"@1
+20@0@10@"En el MRU"@"La aceleracion es negativa"@"La aceleracion es constante y distinta de cero"@"La velocidad es constante"@"La aceleracion es variable"@3
+21@0@11@"Como se puede encontrar la aceleracion causada por la gravedad en un cuerpo?"@"Diviendo su peso por su masa"@"Dividiendo su masa por su peso"@"Multiplicando su masa por su peso"@"Ninguna de las anteriores"@1
+22@0@11@"En que tipo de movimiento son utilizadas ampliamente las magnitudes en radian?"@"Movimiento Rectilineo Uniforme"@"Movimiento Rectilineo Uniformemente Acelerado"@"Movimiento Circular Uniforme"@"Ninguna de las anteriores"@3
+23@0@12@"Cual de estos elementos tiene menor peso?"@"Una estacion espacial en orbita"@"Una persona que vive en Buenos Aires"@"Un camion transitando por Santa Fe"@"Una ballena encallada en Puerto Madryn"@1
+24@0@12@"Que dato muestra el velocimetro de un auto?"@"Fuerza"@"Velocidad"@"Aceleracion"@"Rapidez"@4
+25@0@14@"Como influye la aceleracion de la gravedad en un cuerpo?"@"No afecta al cuerpo"@"Siempre de manera positiva"@"Siempre de manera negativa"@"Ninguna es correcta"@4
+26@0@14@"Cuantas son las principales leyes de Newton?"@2@5@3@4@3
+27@0@15@"Si un cuerpo se suelta en el vacio, la velocidad a la que cae..."@"Esta influenciada por la masa del cuerpo"@"No depende de la masa del cuerpo"@"Depende solo del rozamiento con el aire"@"Es nula, los cuerpos no pueden caer en el vacio"@2
+28@0@15@"Cuando un rayo de luz pasa de un medio mas denso a uno menos denso, el angulo refractado..."@"Es menor al angulo incidente"@"Es 0°"@"Es igual al angulo incidente"@"Es mayor al angulo incidente"@4
+29@0@16@"De que depende la aceleracion de un cuerpo?"@"De las fuerzas que se le aplican y de su masa"@"Solamente de las fuerzas que se le aplican"@"Solamente de su masa"@"Ninguna de las anteriores"@1
+30@0@16@"Si una particula se mueve a velocidad constante ,mayor a cero, su ecuacion del movimiento es:"@"x(t) = Xinicial"@"x(t)=Xinicial + V inicial * t"@"x(t) = 1/2 a t^2"@"Ninguna de las anteriores"@2
+31@0@17@"Cual de las siguientes opciones no tiene que ver con el fenomeno de reflexion?"@"angulo de incidencia = angulo reflejado"@"Reflejo variado por superficie rugosa"@"n1 sen (tita1) = n2 sen (tita2)"@"Ninguna de las anteriores"@3
+32@0@17@"Cual NO es una ley de Newton?"@"Principio de Inercia"@"Principio de Masa"@"Principio de accion y reaccion"@"E= mc^2"@4
+33@0@18@"Que es el numero de onda?"@"La reciproca de la longitud de onda"@"2pi sobre la longitud de onda"@"Numero de veces que vibra una onda en una unidad de distancia"@"Todas son correctas"@4
+34@0@18@"En un tiro oblicuo Que aceleracion hay en el eje x?"@"De la gravedad"@0@1@"Depende el problema"@2
+35@0@19@"Que estudia la fisica?"@"Solo las propiedades y caracteristicas de la materia y energia"@"Solo el tiempo y el espacio."@"Caracteristicas, propiedades e interacciones entre la energia, materia, tiempo y espacio"@"Ninguna de las anteriores"@3
+36@0@19@"En un calibre A cuantos divisores de regla fija equivalen N divisores de regla movil?"@"N divisores"@"N-1 divisores"@"N-2 divisores"@"N-5 divisores"@2
+37@0@20@"Que puede ocasionar una disipacion de energia en forma de calor de un cuerpo en movimiento?"@"La fuerza de rozamiento"@"El peso del cuerpo"@"La masa del cuerpo"@"Ninguan de las anteriores"@1
+38@0@20@"Que muestra un diagrama de cuerpo libre?"@"Las fuerzas que actuan sobre un cuerpo"@"Las fuerzas que un cuerpo ejerce sobre otros"@"Un cuerpo con la fuerza normal y el peso"@"Ninguna de las anteriores"@1
+39@0@21@"Que energia no puede tener un objeto que esta en reposo?"@"Cinetica"@"Potencial gravitatoria"@"Potencial elastica"@"Ninguna de las anteriores"@1
+40@0@21@"Que sentido tiene la aceleracion de la gravedad?"@"Positivo"@"Negativo"@"No tiene sentido"@"Depende del sistema de referencia"@4
+41@0@22@"A que tiene que ser igual la distancia de un objeto a un espejo para que la imagen se forme en el infinito?"@"Al foco"@"Al radio de curvatura del espejo"@"A 20 metros"@"A 5 metros"@1
+42@0@22@"Cual de estas fuerzas es conservativa?"@"Friccion"@"Magnetica"@"Peso"@"Ninguna"@3
+43@0@23@"Que anuncia el Principio de Pascal?"@"Toda presion aplicada en todos los puntos del fluido se transmite a un punto de fluido."@"Toda presion aplicada en un punto del fluido se trasmite a todos los puntos del fluido."@"La sumatoria de todas las fuerzas es igual a cero."@"Ninguna de las anteriores"@2
+44@0@23@"Cual es la Tercera Ley de Newton?"@"Con toda accion ocurre siempre una reaccion igual y contraria."@"Con toda accion ocurre siempre una reaccion diferencia y contraria."@"Con toda accion ocurre siempre una reaccion igual y con el mismo sentido."@"No existe Tercera Ley de Newton."@1
+45@0@24@"El peso en Y de un objeto que se desliza por una rampa con angulo de elevacion ""a"" respecto al piso"@"Es mgCos(a)"@"Es mgSen(a)"@"Es Tg(a)"@"Es mCos(a)Sen(a)"@2
+46@0@24@"La ecuacion del constructor de lentes es:"@"n1Sen(a)=n2Sen(a)"@"(1/-s)+(1/s')=1/f'"@"1/f=(n-1)(1/r1-1/r2)n-1"@"f=io/o+i"@3
+47@0@25@"Que es un calibre?"@"Un instrumento para medir presion"@"Un instrumentro para medir temperatura"@"Un instrumento para medir longitudes con precision entre 0.01 y 0.001 mm."@"Un instrumento para medir calibrar una balanza"@3
+48@0@25@"En que unidad se mide una Fuerza en el SI?"@"Metro sobre segundo al cuadrado"@"Newton"@"Jouls"@"Vatios"@2
+49@0@26@"Cual es el valor aproximado de la aceleracion de la gravedad en la superficie terrestre?"@"8,1 m/s^2"@"5 m/s^2"@"9.8 m/s^2"@"11.3 m/s^2"@3
+50@0@26@"Un Newton equivale a ..."@"Kg m / s^2"@"kg/m"@"m/s^2"@"kg"@1
+51@0@27@"Cual de las siguientes es la 1era ley de Newton?"@"Ley de Fuerza"@"Ley de Inercia"@"Ley de Accion y Reaccion"@"Ninguna de las anteriores"@2
+52@0@27@"Cual de las siguientes magintudes son escalar y vectorial respectivamente?"@"Masa y Tiempo"@"Volumen y Velocidad"@"Peso y Densidad"@"Energia y Densidad"@2
+53@0@28@"En optica geometrica Que se suele representar con la letra C?"@"Distancia focal"@"Centro de curvatura"@"Radio de curvatura"@"Imagen"@2
+54@0@29@"Si un objeto se mueve con aceleracion constante igual a 5 m/s2 entonces..."@"El objeto se mueve 5 metros cada segundo"@"La velocidad no varia"@"Su velocidad aumenta 5m/s cada segundo"@"Ninguna de las anteriores"@3
+55@0@29@"Cual es la aceleracion de un cuerpo en caida libre en el eje x?"@"-9.8 m/s^2"@"9,8 m/s^2"@"-5 m/s^2"@"0 m/s^2"@4
+56@0@30@"En una lente convergente el aumento M esta dado por:"@"1/f"@"-(distancia imagen/distancia objeto)"@"distancia objeto + distancia imagen"@"distancia imagen / distancia objeto"@2
+57@0@30@"Que es la dioptria?"@"Tamaño de la lente"@"Tipo de lente"@"Potencia de la lente"@"Ninguna de las anteriores"@3
+58@0@31@"Cual es el principio de la Segunda Ley de Newton?"@"Principio de masa"@"Principio de inercia"@"Principio de accion y reaccion"@"Ninguna de las anteriores"@1
+59@0@31@"Que es un Joule o Julio?"@"Una unidad de tiempo"@"Una unidad de presion"@"Una unidad de temperatura"@"Una unidad de trabajo"@4
+60@0@32@"Como se calcula la posicion final en un MRU?"@"x = x0 + a t"@"x = x0 + v t"@"x = x0 v + t"@"Ninguna de las anteriores"@2
+61@0@32@"La velocidad final de un cuerpo en caida libre, que inicialmente se encuentra en reposo, es..."@"VelFinal = VelInicial^2 / 2"@"VelFinal = VelInicial+2gt"@0@"VelFinal = sqrt(2gh)"@4
+62@0@33@"Que es la energia potencial?"@" Es la energia que tiene dicho sistema para realizar un trabajo en funcion exclusivamente de su posicion."@"Es aquella energia que posee debido a su movimiento."@"Es la energia que poseen solo los seres vivos."@"Ninguna de las anteriores"@1
+63@0@33@"Que es la inercia?"@"La propiedad de los cuerpos de no permancer en su estado de reposo"@"La tendencia de los cuerpos a mantenerse en el estado en que se encuentran"@"Es la fuerza de la gravedad"@"Ninguna de las anteriores"@2
+64@0@34@"En optica, un rayo que atraviesa una interfaz entre dos medios distintos se lo denomina..."@"Rayo reflejado"@"Rayo refractado"@"Rayo refreccionado"@"Rayo reflex"@2
+65@0@34@"En optica si el angulo de inicidencia es de 45° el angulo reflejado es de ..."@"90°"@"0°"@"-45°"@"45°"@4
+66@0@35@"La ley de Snell equivale a:"@"n2 * sen(a1)/sen(a2) = n1"@"n1 * sen(a1)/sen(a2) = n2"@"n1 * sen(a2)/sen(a1) = n2"@"Ninguna de las anteriores"@2
+67@0@35@"Si realizamos 10 mediciones y los resultados son muy proximos entre si pero lejanos al valor real:"@"Fuimos precisos pero no exactos"@"No fuimos exactos ni precisos"@"Fuimos exactos pero no precisos"@"Fuimos exactos y precisos"@1
+68@0@36@"Que es el indice de refraccion?"@"Es el cociente entre la velocidad de la luz en el vacio y la velocidad en el medio"@"Es la velocidad de la luz en el medio"@"Es la densidad del medio"@"Es el angulo de la luz al pasar de un medio a otro"@1
+69@0@36@"Cual es la formula para el aumento optico transversal?"@"Tamaño imagen + Tamaño objeto"@"Tamaño objeto/ tamaño imagen"@"Tamaño imagen / tamaño objeto"@"Tamaño imagen * tamaño objeto"@3
+70@0@37@"En una lente divergente todos los rayos que llegan paralelos a la misma..."@"Convergen en un punto"@"Convergen en dos puntos"@"Convergen en infinitos puntos"@"No convergen"@4
+71@0@38@"Que es el angulo de reflexion en optica?"@"El angulo que forma el rayo incidente con la normal"@"Es el angulo que forman la normal con el rayo reflejado"@"Es el angulo entre el rayo incidente y la superficie"@"Es el angulo entre el rayo reflejado y la superficie"@2
+72@0@38@"En un sistema conservativo, A que es igual la variacion de energia total?"@0@"Una constante distinta de cero dependiendo del sistema"@"A la suma de los trabajos de las fuerzas no conservativas"@"Ninguna de las anteriores"@1
+73@0@39@"En los errores de medicion, Que tipo de errores se propagan en la suma y en la resta?"@"Errores absolutos"@"Errores relativos"@"Errores absolutos y relativos"@"No se propagan errores"@1
+74@0@39@"Si en un espejo concavo la imagen se forma por proyeccion de rayos reflejados, Como es la imagen?"@"Real"@"Virtual"@"Derecha"@"Invertida"@2
+75@0@40@"La reflexion interna total sucede si n2>n1 y ademas..."@"El angulo de incidencia es mayor que el angulo critico"@"El angulo de incidencia es menor que el angulo critico"@"Cuando el angulo de incidencia es de 0 grados respecto a la normal"@"Siempre ocurre"@1
+76@0@40@"Como se puede calcular el desplazamiento de una particula?"@"Sumando los vectores posicion final e inicial de la particula"@"Multiplicando los vectores posicion final e inicial de la particula"@"Restando el vector de posicion final menos el inicial"@"Ninguna de las anteriores"@3
+77@0@41@"Cuando un cuerpo esta en equilibrio..."@"La suma vectorial de las fuerzas que actuan sobre el es igual a cero"@"El cuerpo tiene velocidad constante"@"El cuerpo no esta acelerado"@"Todas son correctas"@4
+78@0@41@"El movimiento siempre es..."@"Absoluto"@"Relativo"@"Absoluto y relativo"@"Ni relativo ni absoluto"@2
+79@0@42@"En que unidad se mide la masa en el STU?"@"Kilogramos"@"Gramos"@"u.t.m."@"Miligramos"@3
+80@0@42@"Generalmente que letra se usa para representar una constante?"@"U"@"K"@"G"@"P"@2
+81@0@43@"Que estudia la cinematica?"@"El movimiento sin importar las causas que lo producen"@"El movimiento y que lo causa"@"Casos particulares de la dinamica donde hay equilibrio de fuerzas"@"La relacion entre el cine y la fisica"@1
+82@0@43@"Cual es la formula basica de trabajo?"@"W=Fuerza * Distancia"@"W= Distancia * Aceleracion"@"W= Fuerza * Distancia^2"@"W = Gravedad * Altura"@1
+83@0@44@"Cual de las siguientes no es una escala de temperatura?"@"Kelvin"@"Poundal"@"Fahrenheit"@"Celsius"@2
+84@0@44@"Que se mide en Poundals?"@"Distancias"@"Presiones"@"Fuerzas"@"Aceleraciones"@3
+85@0@45@"Cual de las siguientes no es una rama de la fisica?"@"Mecanica"@"optica"@"Acustica"@"algebra"@4
+86@0@45@"El tiempo es la magnitud fisica que mide..."@"La duracion o separacion de las cosas sujetas a cambio"@"La velocidad de atraccion de los cuerpos"@"La cantidad de masa que varia en un cuerpo"@"Ninguna de las anteriores"@1
+1@1@1@"Cuando se dice que una funcion ""f"" es Monomorfismo hablamos que ""f"" es ..."@"Inyectiva."@"Suryectiva."@"Biyectiva."@"Biyectiva y Endomorfismo."@1
+2@1@1@"Sea A = {0,1,2} cuantas operaciones binarias pueden definirse sobre A?"@"19683."@"19692."@"16983."@"19681."@3
+3@1@2@"Que condiciones debe cumplir una estructura algebraica para ser grupo?"@"Ser semigrupo"@"Que su operador sea LCI"@"Que exista elemento neutro y la operacion sea conmutativa"@"Ninguna de las anteriores"@4
+4@1@2@"Que es un algebra de Boole?"@"Un conjunto, con al menos dos elementos, y con dos operadores que son asociativos, conmutativos, distributivos con neutro y complemento"@"Un conjunto con dos operadores que son conmutativos"@"Un conjunto de axiomas"@"Un conjunto de propiedades en base a un conjunto y una operacion"@1
+5@1@3@"Para que sirve el metodo por contraposicion en una prueba formal?"@"Para demostrar un razonamiento mediante el contrareciproco"@"Para descartar hipotesis falsas"@"Para resovler una ecuacion diofantica"@"Para demostrar que una formula es una contingencia"@1
+6@1@3@"Que propiedad del algebra Booleana es la siguiente? x+x=x ; x.x=x"@"Leyes de Morgan"@"Ley de involucion"@"Leyes de idempotencia"@"Leyes de absorcion"@3
+7@1@4@"Cual de estos metodos no posibilita ordenar en forma sistematica los vertices de un arbol?"@"Preorden"@"Reorden"@"Postorden"@"Inorden"@2
+8@1@4@"A que hace referencia la conmutatividad?"@"A que el orden de los factores altera el producto"@"Hace referencia a la propiedad asociativa"@"A que la resta no es conmutativa"@"A que el orden de los factores no altera el producto"@4
+9@1@5@"El dual de la expresion (x+y)=x'y' es ..."@"xy = x'+y'"@"x'y' = x+y"@"x'y' = xy"@"x+y"@1
+10@1@5@"Cual de los siguientes conjuntos de conectivos no es adecuado?"@"{¬,^}"@"{v,^}"@"{¬,v}"@"{¬,-->}"@2
+11@1@6@"Cual es la expresion general del siguiente sucesion? 0, 2, 6, 12, 20, 30, 42…"@"n.(n-1)"@"(n^n)"@"(n+1).n"@"(n+1-n)"@3
+12@1@6@"Si “a” es un numero compuesto, entonces:"@"Es solo divisible por 1, -1, -a y a"@"Admite al menos un divisor primo"@"Es par"@"Es impar"@2
+13@1@7@"El grado neto de un vertice en un digrafo es:"@"Numero de arcos que salen menos los que llegan"@"Suma de los arcos que salen mas los que llegan"@"Los arcos que llegan por los que salen"@"El cociente entre los arcos que salen y los que llegan"@1
+14@1@7@"Si p es un numero primo y p divide al producto ab entonces..."@"ab|p"@"p|a o p|b"@"p|a y p|b"@"ab=p"@2
+15@1@8@"Como se puede clasificar una relacion de recurrencia?"@"Homogenea o no homogenea"@"Lineal o no lineal"@"Con coeficientes constantes o variables"@"Todas las anteriores"@4
+16@1@8@"Como se puede definir una operacion binaria en un conjunto finito?"@"Mediante una matriz"@"Mediante una parabola"@"Mediante un conjunto"@"Mediante un dibujo"@1
+17@1@9@"Cuando una formula de la LPC es tautologia?"@"Cuando todas las interpretaciones son modelo de la formula"@"Cuando ninguna interpretacion la satisface"@"Cuando algunas interpretaciones son modelo de la formula"@"Ninguna de las anteriores"@1
+18@1@9@"Cuando una estructura algebraica constituye un grupo abeliano?"@"Si el operador es conmutativo"@"Si es semigrupo, tiene neutro, inverso para cada elemento y es conmutativo"@"Si el operador es asociativo"@"Si es monoide y existe  elemento neutro"@2
+19@1@10@"En LPO se llama enunciado o formula cerrada a..."@"Una fbf que no tiene variables libres"@"Una fbf sin variables"@"Una fbf con al menos una variable ligada"@"Una fbf de complejidad 0"@1
+20@1@10@"En el algebra de boole (Div70,1,70,mcm,MCD) Cual es el resultado de la operacion 35'+70'?"@105@70@3@2@4
+21@1@11@"Cual de las siguientes es una formula bien formada?"@"(¬p)"@"p ? q"@"((p ? q) ? r)"@"(p ? (q ? ? r))"@3
+22@1@11@"Que significa la sigla L.P.O.?"@"Los Padres del Orden"@"Logica Proposicional Organizada"@"Logica de Primer Orden"@"Logica Primitiva Ordenada"@3
+23@1@12@"Cual de las siguientes formulas de LPC es equivalente a (p-->q) ?"@"¬p^q"@"¬q --> ¬p"@"p v ¬q"@"q --> ¬p"@2
+24@1@12@"Cual de estas propiedades no necesita cumplir  una estructura algebraica para ser grupo?"@"Asociatividad"@"Existencia de elemento neutro"@"Conmutatividad"@"Todas las anteriores son necesarias"@3
+25@1@13@"Cuando es lineal una relacion de recurrencia?"@"Cuando cada termino recursivo esta elevado a la primera potencia"@"Cuando an=0"@"Cuando no hay termino independiente"@"Cuando hay solo una condicion inicial"@1
+26@1@14@"Cuando un arbol de refutacion es cerrado?"@"Cuando algunas de sus ramas son cerradas"@"Cuando tiene alguna rama abierta"@"Todas sus ramas son cerradas"@"Todas sus ramas estan saturadas"@3
+27@1@14@"Que es la complejidad de un termino de LPO?"@"La cantidad de cuantificadores que tiene"@"El numero de conectivos que tiene"@"El numero de cuantificadores y conectivos que tiene"@"El numero de funciones que lo componen"@4
+28@1@15@"A que equivale la sumatoria de los grados de todos los vertices en un grafo?"@"2 veces la cantidad de aristas"@"La cantidad de aristas"@"El total de vertices"@"2 veces el total de vertices"@1
+29@1@15@"En grafos Cuando un vertice se dice que es ""pendiente""?"@"Cuando su grado es 0"@"Cuando su grado positivo es 1"@"Cuando su grado es 1"@"Cuando el vertice tiene un bucle"@3
+30@1@16@"La ecuacion diofantica 2x+3y=5 tiene..."@"Ninguna solucion"@"Una solucion"@"Dos soluciones"@"Infinitas soluciones"@4
+31@1@16@"La clase de equivalencia modulo 7 cuyo lider es el numero 3 es..."@"El conjunto de enteros que tienen resto 3 al ser divididos por 7."@"El conjunto de enteros que tienen cociente 3 al ser divididos por 7"@"El conjunto de enteros que tienen cociente 7 al ser divididos por 3"@"Ninguna de las anteriores"@1
+32@1@17@"Cuantos nodos tiene un grafo completo de 91 aristas?"@13@14@12@15@2
+33@1@17@"El MCD(1820,231) es igual a ..."@22@10@15@7@4
+34@1@18@"Sean X e Y conjuntos finitos entonces el cardinal de X x Y esta dado por:"@"card(x)+card(y)"@"card(x)*card(y)"@"card(x)"@"card(y)-card(x)"@2
+35@1@19@"El recorrido en inorden de un arbol binario es..."@"Subarbol Izquierdo - Raiz - Subarbol Derecho"@"Subarbol izquierdo - Subarbol derecho - Raiz"@"Raiz -Subarbol izquierdo - Subarbol derecho"@"Ninguna de las anteriores"@1
+36@1@19@"Que operador aritmetico tiene mayor prioridad?"@"Suma"@"Resta"@"Multiplicacion"@"Radicacion"@4
+37@1@20@"De que manera se definen las fbf en LPC?"@"Taxativa"@"Inductiva"@"Recursiva"@"Abstracta"@3
+38@1@20@"Que define el valor de cada preposicion en una fbf de LPC?"@"La sintaxis"@"Una interpretacion"@"El dominio de aplicacion"@"El azar"@2
+39@1@21@"Cual de estas es una propiedad del MCD?"@"MCD(a,b)=MCD(b,a)"@"MCD(a,b)=MCD(|a|,|b|)"@"MCD(a,0)=|a|"@"Todas son correctas"@4
+40@1@21@"La operacion 2+2 en el conjunto cociente Z4 da como resultado..."@2@5@4@0@4
+41@1@22@"La sumatoria de los primeros n-1 numeros naturales se puede expresar como..."@"n(n-1)/2"@"n(n+1)/2"@"(n-1)(n-2)/2"@"(n+(n-1))/2"@1
+42@1@22@"La relacion de recurrencia a[n] = a[n-1]+2..."@"Genera numeros pares"@"Genera numeros impares"@"Genera numeros pares o impares dependiendo de la condicion inicial"@"Genera alternadamente un par y un impar"@3
+43@1@23@"En LPO A que se le llama sentencia, enunciado o formula cerrada?"@"Es una formula que tiene variables libres."@"Es una formula que esta compuesta solamente de simbolos."@" Es una formula que tiene algunas variables libres."@"Es una formula que no tiene variables libres."@4
+44@1@23@"Cual es la opcion correcta respecto al isomorfismo de grupos?"@"Se corresponden elementos de diferente diferente orden."@"Se corresponden elementos del mismo orden"@"Se corresponden elementos del mismo orden, menos el neutro"@"Ninguna de las anteriores"@2
+45@1@24@"Cuando una formula es satisfacible?"@"Cuando es una contradiccion"@"Cuando al menos una interpretacion la hace verdadera"@"Cuando no tiene modelos"@"Todas las anteriores"@2
+46@1@24@"Cuando un grafo es conexo?"@"Cuando es simetrico"@"Cuando es simetrico y transitivo"@"Cuando todo vertice tiene un camino hacia el resto de los vertices"@"Ninguna de las anteriores"@3
+47@1@25@"Que significa la sigla L.P.C.?"@"Logica Persuasiva Clasica"@"Logica Predictiva Codificada"@"Logica Platonica Clasica"@"Logica Proposicional Clasica"@4
+48@1@25@"En el conjunto cociente Z6 Cuanto es 3+5?"@12@9@2@1@3
+49@1@26@"Que representa un ""termino"" en LPO?"@"Relaciones de los objetos en el universo"@"Mapeos definidos sobre los objetos"@"Son los objetos del universo"@"Son propiedades sobre los objetos"@3
+50@1@26@"El grado de complejidad de un termino en LPO Que indica?"@"El numero de simbolos de funciones que aparecen en el"@"El numero de parentesis que aparecen en el"@"El numero de constantes que aparecen en el"@"El numero de variables que aparecen en el"@1
+51@1@27@"Cual de los siguientes conjunto de divisores forman un algebra de boole con el mcm y el MCD?"@"Divisores del 8"@"Divisores del 24"@"Divisores del 30"@"Divisores del 64"@2
+52@1@27@"En Digrafos, dos vertices son adyacentes cuando:"@"Sus grados son iguales"@"Son extremos de un mismo arco"@"Los dos vertices tienen un bucle"@"No hay un camino que los una"@2
+53@1@28@"Cual de los siguientes es un subgrupo trivial de un grupo?"@"El formado por todos los elementos del grupo"@"El formado por el ultimo elemento del grupo"@"El formado por el neutro y cualquier otro elemento"@"Ninguna de las anteriores"@1
+54@1@28@"Segun la Ley de Morgan A que equivale ¬(p v q)?"@"(¬p v ¬q)"@"(p ^ q)"@"(¬p ^ ¬q)"@"(¬p v q)"@3
+55@1@29@"Si dos numeros son congruentes modulo N, entonces se verifica que..."@"a<b"@"a=b*N"@"a*N=b"@"a-b=n*k"@4
+56@1@29@"En LPO Cual de los siguientes conjuntos de un vocabulario no puede ser vacio?"@"Pred"@"Cons"@"Func"@"Var"@1
+57@1@30@"Siendo n la cantidad de vertices de un digrafo. Cuantos digrafos reflexivos distintos pueden armarse?"@"2^(n^2-n)"@"2^n"@"2^(2n)"@"2^(n-1)"@1
+58@1@30@"El grado neto de un vertice en un digrafo es:"@"Grado positivo + Grado negativo"@"Grado positivo"@"Grado negativo"@"Grado positivo - Grado negativo"@4
+59@1@31@"Que es un grafo?"@"Un digrafo no dirigido"@"Un digrafo transitivo"@"Un digrafo antisimetrico"@"Ninguna de las anteriores"@1
+60@1@31@"El problemas de las torres de Hanoi se puede analizar mediante..."@"Una ecuacion diofantica"@"Induccion"@"Una relacion de recurrencia"@"Ninguna de las anteriores"@3
+61@1@32@"Cual de los siguientes operadores es L.C.I.?"@"La resta en los naturales"@"La divison en los enteros"@"La suma en los enteros"@"Ninguna de las anteriores"@3
+62@1@32@"Cual de estas expresiones es cierta acerca de los grafos?"@"No son dirigidos"@"Son dirigidos"@"Tienen un maximo de 5 aristas"@"Ninguna de las anteriores"@1
+63@1@33@"El resultado de 81mod2+9div4 es ..."@1@01/03/25@3@2@3
+64@1@33@"Cual es el numero de divisores positivos del 14?"@2@3@5@4@4
+65@1@34@"El grado total de un vertice en un digrafo es igual a..."@"Gt(v) = G+(V) + G-(V)"@"Gt(v)= G+(v) - G-(v)"@"Gt(v)=G+(v)"@"Gt(v)=G-(v)"@1
+66@1@34@"Segun el teorema de Euler, un grafo conexo tiene es euleriano si..."@"Si y solo si posee una unica componente conexa"@"Si y solo si es no dirigido"@"Si y solo si es transitivo"@"Si y solo si todo vertice tiene grado par"@4
+67@1@35@"Cuando un numero tiene una cantidad impar de divisores positivos?"@"Cuando es producto de una cantidad impar de numeros primos."@"Cuando es un cuadrado perfecto."@"Cuando es producto de numeros primos con exponentes impares"@"Ninguna de las anteriores"@2
+68@1@35@"Todos los numeros primos..."@"Pueden encontrarse mediante una relacion de recurrencia"@"Son divisor de algun entero"@"Tienen solo dos divisores enteros"@"No tienen igual cantidad de divisores enteros"@2
+69@1@36@"Un semigrupo es un conjunto con una operacion LCI definida en el y ademas es.."@"Conmutativa"@"Distributiva"@"Asociativa"@"Todas las anteriores"@3
+70@1@36@"Una funcion es un isomorfismo si..."@"Es inyectiva"@"Es suryectiva"@"Es biyectiva"@"Ninguna de las anteriores"@3
+71@1@37@"Cuando una proposicion es una contingencia?"@"Cuando para toda interpretacion es verdadera"@"Cuando para toda interpretacion es falsa"@"Cuando para algunas interpreaciones es falsa y para otras verdadera"@"Cuando existen al menos dos interpretaciones que la hacen verdadera"@3
+72@1@37@"Si dos grupos son isomorfos entonces ..."@"Comparten las mismas propiedades"@"Las propiedades de uno no se cumplen en el otro y viceversa"@"Tienen al menos una propiedad en comun"@"Tienen los mismos elementos"@1
+73@1@38@"Si a,b,c son numeros enteros, entonces..."@"a|b y b|c entonces a|c"@"a|b+c entonces a|c o a|b"@"a|b y b|c entonces c|a"@"a|b y b|c entonces b|a"@1
+74@1@38@"Sea Kn un grafo completo de ""n"" vertices y ""a"" aristas, podemos afirmar que ..."@"a=n*n-n"@"g(v)=n para todo los vertices"@"Kn es euleriano si n es impar"@"Ninguna de las anteriores"@3
+75@1@39@"En LPO Cual de los siguientes son simbolos NO logicos?"@"Cuantificadores"@"Simbolos de funciones"@"Simbolos de variables"@"Simbolos auxiliares"@2
+76@1@39@"Que caracteriza a una formula basica o ground en un lenguaje de primer orden?"@"No contiene terminos"@"No contiene cuantificadores"@"No contiene conectivos logicos"@"No contiene variables"@4
+77@1@40@"Que es la sucesion de Fibonacci?"@"Un conjunto de numeros enteros"@"Una serie finita de numeros reales"@"Una sucesion de numeros fraccionarios"@"Una sucesion infinita de numeros naturales"@4
+78@1@40@"El silogismo hipotetico es ..."@"((p->q) ^ (q->r)) => (p->r)"@"((p->q) ^ ¬q) => ¬p"@"((p->q) ^ p) => q"@"Ninguna de las anteriores"@1
+79@1@41@"Que es una proposicion?"@"Oraciones imperativas"@"Un hecho que tiene un valor de verdad"@"Expresiones exclamativas"@"Oraciones personales"@2
+80@1@41@"Cual es la implicacion reciproca de (p->q)?"@"(¬p -> q)"@"(q->p)"@"(¬q -> ¬p)"@"(¬p -> ¬q)"@2
+81@1@42@"Si Pedro es bueno es generoso. Pedro no es generoso. Entonces Pedro no es bueno. Que razonamiento es?"@"Modus Ponens"@"Modus Tollens"@"Silogismo Hipotetico"@"Silosgismo Disyuntivo"@2
+82@1@42@"Una formula es tautologia si y solo si..."@"Su negacion es insatisfacible"@"Su negacion tambien es satisfacible"@"Su dual tambien es tautologia"@"Su negacion tambien es tautologia"@1
+83@1@43@"Un anillo es una estructura algebraica con una operacion ""+"" que es grupo abeliano y el ""*"" que es..."@"Monoide"@"Distributivo respecto del producto"@"Semigrupo"@"Semigrupo y distributivo respecto de la suma"@4
+84@1@43@"Que es un grafo hamiltoniano?"@"Grafo con un circuito cerrado que recorre todos los vertices una sola vez"@"Es un grafo conexo y con un lazo en cada nodo"@"Un Grafo con un circuito cerrado que recorre todas las aristas una sola vez"@"Es un grafo simetrico y transitivo"@1
+85@1@44@"El predicado P(x,y,f(a,b,c,)) tiene aridad..."@5@2@3@0@3
+86@1@44@"Una interpretacion es modelo para un conjunto de formulas si..."@"Satisface a la conjuncion de las formulas"@"Satisface a la disyuncion de las formulas"@"Satisface a la negacion de alguna formula"@"No satisface a ninguna formula"@1
+87@1@45@"Una formula es una contradiccion, insatisfacible o inconsistente si..."@"Es falsa para todas las interpretaciones posibles"@"Es verdadera para todas las interpretaciones posibles"@"Es falsa para algunas interpretaciones y verdadera para otras"@"Es una formula con infninitas respuestas"@1
+88@1@45@"Que estudia la matematica discreta?"@"Estudia la estructura operacional fundamental de los sistemas computacionales"@"Estudia el desarrollo de algoritmos computacionales"@"Estudia los conjuntos discretos: finitos o infinitos numerables"@"Todas son correctas"@3
